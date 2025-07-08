@@ -1,0 +1,26 @@
+{
+  "name": "Timur",
+  "symbol": "Khan",
+  "description": "Metadata for solana-starter repository content",
+  "seller_fee_basis_points": 0,
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreihod2wdicoptqx53rlrknmlbqpt6kwux2xj3o2akpxwmdfgaacfey",
+  "attributes": [
+    {
+      "trait_type": "Content Type",
+      "value": "Repository"
+    },
+    {
+      "trait_type": "Platform",
+      "value": "Solana"
+    }
+  ],
+  "collection": null,
+  "properties": {
+    "files": [
+      {
+        "type": "image/jpeg",
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreihod2wdicoptqx53rlrknmlbqpt6kwux2xj3o2akpxwmdfgaacfey"
+      }
+    ]
+  }
+}
